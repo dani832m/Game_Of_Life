@@ -1,6 +1,8 @@
-##Game of Life
+## Game of Life
 
 Game of Life is played on a grid of square cells - like a chess board but extending infinitely in every direction. A cell can be _**live**_ or _**dead**_.
+
+![alt text](https://i.imgur.com/tCUy85k.png "Game of Life")
 
 * A live cell is shown by putting a marker on its square.
 * A dead cell is shown by leaving the square empty.
